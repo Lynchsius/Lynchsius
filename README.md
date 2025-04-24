@@ -85,6 +85,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Lynchsius/Lynchsius/output/snake.svg" alt="Snake animation" />
+<img ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg) />
 
 ###
