@@ -25,11 +25,11 @@
   <hr>  
   🤖 <strong>About Me</strong><br><br>
 
-  Hey! I'm Mirac — a 16-year-old developer with a deep passion for robotics, code, and creative problem-solving. <br>
+  Hey! I'm Mirac and i'm 16-year-old developer with a deep passion for robotics, code, and creative problem-solving. <br>
   I'm the <strong>Software Captain & Driver</strong> of <strong>FRC Team 7444 MoonStar Robotics</strong>, where I lead software development and help bring our robots to life with Java.<br><br>
 
   Beyond robotics, I enjoy working with languages like <strong>Python</strong>, <strong>C#</strong>, <strong>Java</strong> and <strong>Vue.js</strong> to build everything from utilities to small experimental projects. <br>
-  I’m always exploring new tools and ideas — I love learning by creating.<br><br>
+  I’m always exploring new tools and ideas I love learning by creating.<br><br>
 
   I'm especially interested in how software can interact with hardware, and I often spend my time developing systems that do just that. <br>
   Whether it's a timer app or robot control software, I'm happiest when I'm building.<br><br>
