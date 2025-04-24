@@ -83,8 +83,8 @@
 
 ###
 
-<br clear="both">
+</div align="left">
 
-<img ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg) />
+![snake gif](https://github.com/Lynchsius/Lynchsius/blob/output/github-snake-dark.svg)
 
 ###
