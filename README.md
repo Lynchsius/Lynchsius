@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://open.spotify.com/intl-tr/track/73yXCwINoNqUBJRAgPJPsY?si=6bee6237785d41d6?" alt="Widget with the current Spotify song"  />
-</div>
-
-###
-
 <p align="left">
   <hr>  
   🤖 <strong>About Me</strong><br><br>
